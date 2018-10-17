@@ -6,6 +6,5 @@ $(function(){
   $(".hello").css({
     fontSize:"28px"
   })
-  $("body").append("<div>hello world</div>");
-  console.log(13);
+  $("body").append("<div>hello world</div>")
 })
